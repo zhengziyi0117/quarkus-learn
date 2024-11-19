@@ -1,4 +1,4 @@
-package org.example.resource;
+package org.example.ws;
 
 import java.util.Map;
 import java.util.concurrent.ConcurrentHashMap;
